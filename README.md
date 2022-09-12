@@ -12,3 +12,8 @@ pip install selenium
 pip install lxml
 ```
 
+## you can run the program this way
+
+```bash
+python engnovel.py
+```
