@@ -1,7 +1,7 @@
 # engnovel-Scrape
-this project for scraping novel web.
 
-can take novel status such as novel description, Rating, all chapter and others
+This project is useful for getting information from a novel such as novel status, description, author, rating and all chapters.
+this project uses selenium and requests which will shorten a script.
 
 
 ## installation
